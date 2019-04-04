@@ -3,7 +3,7 @@ from discord.ext import commands
 import asyncio
 import time
 bot=commands.Bot(command_prefix='H!')
-{[Ash Ketchum]}='492660010074243073,536416270405599232'
+{[Ash Ketchum]}='492660010074243073,540204910344405004'
 start=time.time()
 
 @bot.event
